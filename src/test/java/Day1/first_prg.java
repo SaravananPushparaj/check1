@@ -7,6 +7,7 @@ public class first_prg {
 		
 		System.out.println("Hi world");
 		System.out.println("Welcome");
+		System.out.println("2016");
 
 	}
 
